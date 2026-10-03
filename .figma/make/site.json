@@ -1,0 +1,10 @@
+{
+  "description": "Helps children manage shopping budgets by allocating funds to recipients and tracking expenses with simple inputs and clear remaining balances.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
